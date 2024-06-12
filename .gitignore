@@ -34,4 +34,6 @@ plan.out
 .terraformrc
 terraform.rc
 .terraform.lock.hcl
-airflow-kind-config
+
+# Config file generate from kind provider
+*-config
